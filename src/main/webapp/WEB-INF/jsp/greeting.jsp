@@ -12,5 +12,9 @@
 </head>
 <body>
  Home JSP doing good... ${message}
+
+ <a href=".">Home</a>
+ <a href="greeting">Greeting</a>
+<a href="registration">Registration</a>
 </body>
 </html>
