@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
- Home JSP doing good...
+ Home JSP doing good... ${message}
 </body>
 </html>
